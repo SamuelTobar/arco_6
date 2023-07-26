@@ -1,2 +1,1 @@
-# arco_6
-samuel_tobar
+# Solución del proyecto 33
